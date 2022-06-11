@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tut3", "Tut3\Tut3.csproj", "{BEB305F8-8826-4232-8FDF-BE2832FD602E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEB305F8-8826-4232-8FDF-BE2832FD602E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB305F8-8826-4232-8FDF-BE2832FD602E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB305F8-8826-4232-8FDF-BE2832FD602E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB305F8-8826-4232-8FDF-BE2832FD602E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE59329B-597A-4DEF-A144-A4F72FC5B7F3}
+	EndGlobalSection
+EndGlobal
